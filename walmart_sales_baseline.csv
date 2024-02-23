@@ -1,0 +1,2 @@
+,max,min,avg,median,std,model_type,mae_error,mae_by_max,mae_by_min,mae_by_avg,mae_by_median,mae_by_std
+0,3818686.45,209986.25,1046964.8775617715,960746.04,564366.62,tree_base,429480.73,11.25,204.53,41.02,44.7,76.1
