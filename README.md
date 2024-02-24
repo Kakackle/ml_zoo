@@ -17,3 +17,6 @@ The factors considered include:
 The main goal of this project is to predict the weekly sales of any of the Walmart stores considered, using regression models, but, an additional task could involve the prediction of the store based on the sales and other factors
 
 See the notebook with project results and the development process described in depth in a nice viewable format: [Notebook Viewer](https://nbviewer.org/github/Kakackle/ml_zoo/blob/main/clean_notebooks/predicting_walmart_sales.ipynb)
+
+
+### Project 2. Spotify data and more for song genre classification and song recommendationSS
