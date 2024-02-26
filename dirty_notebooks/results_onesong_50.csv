@@ -1,0 +1,52 @@
+,track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre,dist,is_query
+0,4gHnSNHs8RyVukKoWdS99f,Nirvana,Nevermind (Remastered),Something In The Way,76,232146,0,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4,alternative,0.0,1
+1,4gHnSNHs8RyVukKoWdS99f,Nirvana,Nevermind (Remastered),Something In The Way,76,232146,0,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4,grunge,0.0,0
+2,4gHnSNHs8RyVukKoWdS99f,Nirvana,Nevermind (Remastered),Something In The Way,76,232146,0,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4,rock,0.0,0
+3,4gHnSNHs8RyVukKoWdS99f,Nirvana,Nevermind (Remastered),Something In The Way,76,232146,0,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4,alt-rock,0.0,0
+4,34dx8DACTJsc3rsJdaEIQw,Stromae,racine carrée,Papaoutai,74,232146,0,0.734,0.809,10,-7.264,0,0.0839,0.0266,0.0,0.0642,0.254,116.024,4,house,12.65966003808949,0
+5,2e3cJdJ8xWwydl8JIYlCqB,WayV,Love Talk (English Version),Love Talk - English Version,69,232150,0,0.751,0.719,6,-5.198,0,0.0373,0.142,0.0,0.148,0.437,98.01,4,k-pop,13.581592631204927,0
+6,6g8vNyogMW32lhHlNcDiwX,Fireboy DML;Chris Brown;Shenseea,Playboy,Diana,63,232155,1,0.786,0.357,2,-7.735,0,0.0372,0.0695,8.37e-05,0.11,0.524,108.946,4,dancehall,18.16510859644956,0
+7,5yRAFKdtf6CXxESXbXV1lp,Whitesnake,Whitesnake (30th Anniversary Super Deluxe Edition),Here I Go Again - Radio Mix,59,232133,0,0.48,0.887,7,-4.91,1,0.0319,0.147,0.00011,0.33,0.69,92.971,4,british,26.009388774673273,0
+8,28odLhBa4Yh2yPoDWJMOPb,Jubin Nautiyal,Shish Nawata Hoon,Shish Nawata Hoon,58,232142,0,0.382,0.688,7,-4.767,1,0.0401,0.464,0.0,0.0857,0.468,83.227,4,pop-film,29.894175166577185,0
+9,28odLhBa4Yh2yPoDWJMOPb,Jubin Nautiyal,Shish Nawata Hoon,Shish Nawata Hoon,58,232142,0,0.382,0.688,7,-4.767,1,0.0401,0.464,0.0,0.0857,0.468,83.227,4,k-pop,29.894175166577185,0
+10,3B1Je3rlEac3p4ikYW13zw,Dom Dolla;Go Freek,Define,Define,59,232129,0,0.405,0.808,0,-3.867,0,0.0355,0.18,0.000412,0.133,0.32,122.043,4,deep-house,31.798109458547124,0
+11,3B1Je3rlEac3p4ikYW13zw,Dom Dolla;Go Freek,Define,Define,59,232129,0,0.405,0.808,0,-3.867,0,0.0355,0.18,0.000412,0.133,0.32,122.043,4,groove,31.798109458547124,0
+12,1JqVkjt28jeJY9cL4ioboU,Pranish VP,Closer X Channa Mereya,Closer X Channa Mereya,49,232150,0,0.564,0.451,4,-8.226,1,0.0269,0.687,0.0,0.206,0.743,90.005,4,indian,31.878973846094862,0
+13,0YpzP03QziAgqcZSCtjbl2,Daughtry,Baptized (Deluxe Version),Battleships,54,232133,0,0.49,0.746,1,-4.951,1,0.0405,0.0121,0.0,0.0624,0.331,81.848,4,grunge,36.25786680225411,0
+14,0OP07gLuFKLHyV2GhdzyMd,Zezé Di Camargo & Luciano,Zezé Di Camargo & Luciano 1992,Leva Minha Timidez,44,232133,0,0.621,0.53,4,-10.788,1,0.0367,0.102,0.0,0.239,0.768,119.044,3,sertanejo,37.51512912732675,0
+15,3DpGyWrBsi29h0ee7KldAe,Elaine de Jesus;Vanilda Bordieri;Eliane Silva;Lydia Moisés;Suelen de Jesus;Célia Sakamoto;Elaine Martins;Shirley Carvalhaes,Elaine de Jesus - Manifestação da Glória (Ao Vivo),"Deus Tremendo (feat. Vanilda Bordieri, Eliane Silva, Lydia Moisés, Suelen de Jesus, Célia Sakamoto, Elaine Martins & Shirley Carvalhaes) - Ao Vivo",38,232146,0,0.575,0.898,10,-4.158,1,0.0446,0.256,6.14e-05,0.88,0.619,109.963,4,gospel,39.38516883240911,0
+16,2SBkwSedtTogejeZhh61IC,Mattia Vlad Morleo,Latent Dream,Latent Dream,54,232174,0,0.335,0.0615,4,-30.169,1,0.0435,0.995,0.927,0.109,0.0352,96.309,4,ambient,40.7083328576595,0
+17,5F9jisEWYYQc2jA0zT0GEy,Stylo;Space Motion,Yeke Yeke,Yeke Yeke - Radio Edit,42,232131,0,0.724,0.819,10,-6.109,1,0.0476,0.00835,0.501,0.213,0.581,121.968,4,techno,41.41257810946452,0
+18,6z4n862KhNJNWDYSn4aLL5,L'Impératrice,Tako Tsubo,Anomalie bleue,53,232178,0,0.849,0.378,0,-11.972,0,0.0455,0.324,0.583,0.293,0.229,116.998,4,synth-pop,41.93407913952564,0
+19,19gWKISRrdEpywKRkZHphI,Armaan Malik;Sam C.S.;Manoj Muntashir,Vikram Vedha,Yaara,48,232164,0,0.22,0.433,8,-9.075,0,0.0323,0.715,2.88e-06,0.129,0.22,80.004,4,pop-film,41.96056920592389,0
+20,3GCdLUSnKSMJhs4Tj6CV3s,Kendrick Lamar;SZA,Black Panther The Album Music From And Inspired By,All The Stars (with SZA),83,232186,1,0.698,0.633,8,-4.946,1,0.0597,0.0605,0.000194,0.0926,0.552,96.924,4,hip-hop,42.2421848895584,0
+21,2XgGdD5d2MW4RNx8KnIjVh,Old Crow Medicine Show,O.C.M.S.,Wagon Wheel,67,232133,0,0.621,0.403,9,-8.211,1,0.0359,0.581,0.0,0.114,0.634,145.523,4,bluegrass,43.581500404185256,0
+22,6ml6gGXmbCLJwPxF5HVI4p,ConeCrewDiretoria,Com os Neurônios Evoluidos,Relíquia,48,232176,0,0.703,0.795,5,-3.447,1,0.247,0.549,0.0,0.78,0.693,93.001,4,brazil,43.99753193680301,0
+23,5hDTRwsOu3ZyZ9Ryq6iUnN,Sérgio Reis e Filhos,Violas e Violeiros,Tocando Em Frente,44,232120,0,0.52,0.626,0,-5.405,1,0.0288,0.623,0.0,0.723,0.495,93.007,3,sertanejo,44.4218024020863,0
+24,3dPQuX8Gs42Y7b454ybpMR,The White Stripes,Elephant,Seven Nation Army,84,232106,0,0.743,0.446,4,-7.807,0,0.0683,0.0039,0.118,0.337,0.278,123.596,4,alternative,45.2438406549444,0
+25,3dPQuX8Gs42Y7b454ybpMR,The White Stripes,Elephant,Seven Nation Army,84,232106,0,0.743,0.446,4,-7.807,0,0.0683,0.0039,0.118,0.337,0.278,123.596,4,blues,45.2438406549444,0
+26,3dPQuX8Gs42Y7b454ybpMR,The White Stripes,Elephant,Seven Nation Army,84,232106,0,0.743,0.446,4,-7.807,0,0.0683,0.0039,0.118,0.337,0.278,123.596,4,rock,45.2438406549444,0
+27,3dPQuX8Gs42Y7b454ybpMR,The White Stripes,Elephant,Seven Nation Army,84,232106,0,0.743,0.446,4,-7.807,0,0.0683,0.0039,0.118,0.337,0.278,123.596,4,alt-rock,45.2438406549444,0
+28,7szxifMiAXPrK3wOdDpMdd,Authority Zero,A Passage In Time (Explicit Version),Over Seasons,34,232133,0,0.6,0.994,7,-2.718,1,0.161,0.21,1.65e-06,0.236,0.435,98.081,4,hardcore,45.74653686195385,0
+29,67KTXqxMEyBMq3LApqCgNV,Sidhu Moose Wala;DIVINE,Moosetape,Moosedrilla (feat. DIVINE),61,232173,0,0.709,0.829,0,-5.817,1,0.245,0.0698,0.0,0.561,0.654,137.954,4,hip-hop,46.29761118859158,0
+30,4c8ouGnAqVqp3puWViy0Pz,El Coyote Y Su Banda Tierra Santa,Exitos En Vivo Vol. 2,Reproches Al Viento,41,232154,0,0.558,0.473,0,-8.697,1,0.0377,0.688,1.19e-05,0.202,0.938,133.199,4,r-n-b,46.43020569823854,0
+31,7szxifMiAXPrK3wOdDpMdd,Authority Zero,A Passage In Time (Explicit Version),Over Seasons,33,232133,0,0.6,0.994,7,-2.718,1,0.161,0.21,1.65e-06,0.236,0.435,98.081,4,ska,46.66632227701367,0
+32,6dy1JR9E7nGaKOHDHcycAC,Reinhard Mey,Mr. Lee,Zeit zu leben,38,232120,0,0.643,0.325,3,-15.537,1,0.0296,0.794,0.00787,0.133,0.231,112.063,4,german,46.88524437780932,0
+33,2bDENJyfbxj0neGiXUFvIX,Welshly Arms,No Place Is Home,Legendary,66,232173,0,0.537,0.656,11,-5.863,0,0.0411,0.0458,2.54e-06,0.112,0.45,141.873,4,hard-rock,47.27663163661267,0
+34,2bDENJyfbxj0neGiXUFvIX,Welshly Arms,No Place Is Home,Legendary,66,232173,0,0.537,0.656,11,-5.863,0,0.0411,0.0458,2.54e-06,0.112,0.45,141.873,4,alt-rock,47.27663163661267,0
+35,2bDENJyfbxj0neGiXUFvIX,Welshly Arms,No Place Is Home,Legendary,66,232173,0,0.537,0.656,11,-5.863,0,0.0411,0.0458,2.54e-06,0.112,0.45,141.873,4,alternative,47.27663163661267,0
+36,1GGYvJLKa2iOzwcknmQg3D,Eason Chan,The Best Moment,十面埋伏,46,232133,0,0.542,0.465,0,-6.334,1,0.0298,0.198,0.0,0.112,0.428,138.017,4,cantopop,47.480314637226236,0
+37,1GGYvJLKa2iOzwcknmQg3D,Eason Chan,The Best Moment,十面埋伏,46,232133,0,0.542,0.465,0,-6.334,1,0.0298,0.198,0.0,0.112,0.428,138.017,4,mandopop,47.480314637226236,0
+38,1konoT78IvxDzyyY0wJUM6,The Del Fuegos,The Best Of The Del Fuegos : The Slash Years,I Still Want You,29,232160,0,0.715,0.5,9,-13.326,0,0.029,0.109,0.000129,0.0991,0.653,115.625,4,power-pop,50.163481247842455,0
+39,4oJtZhmFatqxU8jWeb0MDq,Los Rude Boys,El Precio del Sudor,Salí de Casa,35,232120,0,0.678,0.984,11,-1.501,0,0.0747,0.0601,3.19e-05,0.125,0.844,96.989,4,ska,50.69297550027634,0
+40,797ikuM3k4gkjaxStQnxgW,Cesária Evora;Ismaël Lô,Rogamar,Africa Nossa (with Ismaël Lô),25,232146,0,0.804,0.854,7,-7.937,1,0.0487,0.611,8.31e-05,0.395,0.841,104.004,4,world-music,51.29222489750572,0
+41,3h8k8SEZeQX5nVbn94pevh,Anurag Vashisht;Dj Ruchir,Taare 2.O,Taare 2.O,31,232173,0,0.615,0.441,4,-9.684,1,0.024,0.708,0.0,0.0883,0.221,92.059,4,songwriter,54.35656932165605,0
+42,3h8k8SEZeQX5nVbn94pevh,Anurag Vashisht;Dj Ruchir,Taare 2.O,Taare 2.O,31,232173,0,0.615,0.441,4,-9.684,1,0.024,0.708,0.0,0.0883,0.221,92.059,4,singer-songwriter,54.35656932165605,0
+43,01FnTmSe5zIE0LmqPISajN,Clément Leroux,Imaginary Friend,Imaginary Friend,59,232195,0,0.686,0.574,8,-8.868,1,0.0272,0.0706,0.0647,0.0894,0.545,123.0,4,french,54.99607193154799,0
+44,6qLOPQnJM96UtYaTjMFvip,Andrew Marlin,Witching Hour,Pellinore's Ride,23,232163,0,0.581,0.498,0,-11.586,1,0.0369,0.943,0.904,0.129,0.524,106.032,4,bluegrass,56.26330801579303,0
+45,5UTQ3wHgxTXpENHnk9fKTc,Grasshopper,復黑王GRASSHOPPER IV,半點心,40,232106,0,0.796,0.587,4,-11.021,0,0.0303,0.49,8.37e-06,0.0977,0.837,122.233,4,cantopop,56.63581409574202,0
+46,6JRLFiX9NJSoRRKxowlBYr,Bob Marley & The Wailers,Kaya,Is This Love,76,232200,0,0.776,0.559,6,-8.375,0,0.103,0.11,0.0,0.0671,0.758,122.242,4,reggae,56.86671339843723,0
+47,3p4UTiSIIpP4LFn0KEyEOj,Eason Chan,Live For Today,十面埋伏,39,232119,0,0.559,0.474,0,-6.359,1,0.0287,0.231,0.0,0.105,0.399,138.031,4,cantopop,57.30547874191437,0
+48,3p4UTiSIIpP4LFn0KEyEOj,Eason Chan,Live For Today,十面埋伏,39,232119,0,0.559,0.474,0,-6.359,1,0.0287,0.231,0.0,0.105,0.399,138.031,4,mandopop,57.30547874191437,0
+49,1wLwhdXP53ZP3nwZK3K4j2,Doc Watson,The Best Of Doc Watson 1964-1968,Crawdad Hole,22,232133,0,0.534,0.386,2,-18.752,1,0.166,0.811,0.000729,0.696,0.837,117.575,4,bluegrass,57.50957609483346,0
+50,2ajr0j1iQIBK9tuT6UU6Pa,Carajo,Inmundo,Una Oportunidad,23,232146,0,0.647,0.939,10,-2.873,0,0.0822,0.000923,0.000432,0.0839,0.742,125.995,4,heavy-metal,57.886161401811336,0
