@@ -34,7 +34,17 @@ See the notebook with project results and the development process described in d
 See the project results: [work in progress](#)
 
 
-### Project 3. Obesity or stroke risk prediction, one of these two
+### Project 3. Obesity or stroke prediction
+#### PT 1. Stroke prediction, matplotlib, seaborn
+1. EDA with seaborn
+2. cleaning if necessary
+3. classification training:
+    * naive bayes
+    * support vectors with different kernels (not just linear)
+    * dimensionality reduction / PCA and dimension visualization
+    * other methods / model types
+4. coefficients etc exploration?
+5. 
 
 ### Project 4. SPAM or something classification
 
