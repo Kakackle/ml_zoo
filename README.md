@@ -31,7 +31,7 @@ See the notebook with project results and the development process described in d
 * or key classification
 * or song stat regression (as in how joyful is a song likely to be from an artist, in a key, with a bpm, from a year)
 
-See the project results: [work in progress](#)
+See the project results: [work in progress](https://kakackle.github.io/ml_zoo/song_recommender.html)
 
 
 ### Project 3. Obesity or stroke prediction
@@ -45,6 +45,8 @@ See the project results: [work in progress](#)
     * other methods / model types
 4. coefficients etc exploration?
 5. 
+
+See the project results: [work in progress](https://kakackle.github.io/ml_zoo/stroke_prediction.html)
 
 ### Project 4. SPAM or something classification
 
