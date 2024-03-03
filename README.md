@@ -48,6 +48,14 @@ See the project results: [work in progress](https://kakackle.github.io/ml_zoo/so
 
 See the project results: [work in progress](https://kakackle.github.io/ml_zoo/stroke_prediction.html)
 
+### Project 4. Store sales with neural networks
+#### Walmart sales from project 1
+#### Rossmann sales prediction (6 weeks) on data of different nature
+1. With TensorFlow on raw data (cleaned-up NaNs, errors, inconsistencies)
+2. With TensorFlow WITH engineered features from project 1
+3. With PyTorch?
+
+
 ### Project 4. SPAM or something classification
 
 ### Project 5. Sign Language Recognition
