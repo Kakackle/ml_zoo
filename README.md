@@ -34,7 +34,7 @@ See the notebook with project results and the development process described in d
 See the project results: [work in progress](https://kakackle.github.io/ml_zoo/song_recommender.html)
 
 
-### Project 3. Obesity or stroke prediction
+### Project 3. Stroke prediction - Classical ML
 #### PT 1. Stroke prediction, matplotlib, seaborn
 1. EDA with seaborn
 2. cleaning if necessary
@@ -54,6 +54,35 @@ See the project results: [work in progress](https://kakackle.github.io/ml_zoo/st
 1. With TensorFlow on raw data (cleaned-up NaNs, errors, inconsistencies)
 2. With TensorFlow WITH engineered features from project 1
 3. With PyTorch?
+
+
+### Project 5. Neural Network Classification - Binary on Stroke and Multiclass on obesity
+Sources:
+* Obesity : [kaggle competition](https://www.kaggle.com/competitions/playground-series-s4e2/overview) - using a synthetic (generated using a DL model trained on [real data](https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster)) dataset
+* Stroke: [kaggle dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+#### Obsesity
+Non-obvious attributes:
+* FAVC - Frequent consumption of high caloric food
+* FCVC - Frequency of consumption of vegetables
+* NCP - Number of main meals
+* CAEC - Consumption of food between meals
+* CH20 - Consumption of water daily
+* CALC - Consumption of alcohol
+* SCC - Calories consumption monitoring
+* FAF - Physical activity frequency
+* TUE - Time using technology devices
+* MTRANS - (method of) Transportation used
+Obesity scores/classes (NObesity) are:
+* Underweight Less than 18.5
+* Normal 18.5 to 24.9
+* Overweight 25.0 to 29.9
+* Obesity I 30.0 to 34.9
+* Obesity II 35.0 to 39.9
+* Obesity III Higher than 40
+
+
+
+
 
 
 ### Project 4. SPAM or something classification
