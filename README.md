@@ -50,7 +50,6 @@ See the project results: [work in progress](https://kakackle.github.io/ml_zoo/st
 
 ### Project 4. Store sales with neural networks
 #### Walmart sales from project 1
-#### Rossmann sales prediction (6 weeks) on data of different nature
 1. With TensorFlow on raw data (cleaned-up NaNs, errors, inconsistencies)
 2. With TensorFlow WITH engineered features from project 1
 3. With PyTorch?
@@ -81,9 +80,25 @@ Obesity scores/classes (NObesity) are:
 * Obesity III Higher than 40
 
 
+### Project 6. Rossmann sales forecast (6 weeks) - time-series-based
+The goal of the **[competition](https://www.kaggle.com/competitions/rossmann-store-sales/overview)** is to forecast the store sales 6 weeks into the future - a very concrete objective - whilst essentially a regression tasks, due to the length of the prediction time target, it will definitely require a more careful approach, accounting for time-related transformations / characteristics of the data such as trends, seasonality and other factors, which might or might not be present in the data, influencing the historical, datetimed datapoints.
+
+The specified measurement target of choice is the **Root Mean Square Percentage Error (RMSPE)**
+
+Non-obvious columns/factors:
+* Customers - the number of customers on a given day
+* StateHoliday - indicates a state holiday. Normally all stores, with few exceptions, are closed on state holidays. Note that all schools are closed on public holidays and weekends. a = public holiday, b = Easter holiday, c = Christmas, 0 = None
+* SchoolHoliday - indicates if the (Store, Date) was affected by the closure of public schools
+* StoreType - differentiates between 4 different store models: a, b, c, d
+* Assortment - describes an assortment level: a = basic, b = extra, c = extended
+* CompetitionDistance - distance in meters to the nearest competitor store
+* CompetitionOpenSince(Month/Year) - gives the approximate year and month of the time the nearest competitor was opened
+* Promo - indicates whether a store is running a promo on that day
+* Promo2 - Promo2 is a continuing and consecutive promotion for some stores: 0 = store is not participating, 1 = store is participating
+* PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 
 
-
+Original plans:
 
 ### Project 4. SPAM or something classification
 
