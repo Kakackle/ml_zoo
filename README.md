@@ -98,6 +98,12 @@ Non-obvious columns/factors:
 * PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 
 
+### Project 7. Tensorflow vision projects
+#### 7.1. Fashion MNIST classifier by tutorial
+#### 7.2. MNIST bigger?
+#### 7.3. 
+
+
 Original plans:
 
 ### Project 4. SPAM or something classification
